@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014097483620",
+    "firebase_url": "https://manywaysnavigation-a20c7-default-rtdb.firebaseio.com",
+    "project_id": "manywaysnavigation-a20c7",
+    "storage_bucket": "manywaysnavigation-a20c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014097483620:android:1da930ebacef5536ae8c71",
+        "android_client_info": {
+          "package_name": "com.MeLiCwa.manywaysnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014097483620-gfv33b46d3v0emrnvd8nc06nohddqs18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVFj7yklAmDAZm8PmvIbr9JId8CtGwe58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014097483620-gfv33b46d3v0emrnvd8nc06nohddqs18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
