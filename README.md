@@ -25,7 +25,7 @@ cd Navigation-ManyWays
 ### Install dependencies:
 npm install
 
-##Usage
+## Usage
 Open the app on your mobile device.
 Navigate through the tabs to access different sections like maps, saved routes, and profile.
 Use the search bar to enter your destination and start navigating.
