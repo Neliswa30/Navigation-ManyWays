@@ -1,4 +1,4 @@
-ManyWays - Team Collabo Mobile App 
+#ManyWays - Team Collabo Mobile App 
 
 Welcome to the Manyways Navigation App project! This repository contains the code and documentation for a full-fledged e-commerce platform developed as part of our college programming course.
 
