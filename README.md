@@ -1,4 +1,4 @@
-##ManyWays - Team Collabo Mobile App 
+ManyWays - Team Collabo Mobile App 
 
 Welcome to the Manyways Navigation App project! This repository contains the code and documentation for a full-fledged e-commerce platform developed as part of our college programming course.
 
@@ -20,9 +20,9 @@ Maps Integration: Google Maps API
 
 Installation
 Clone the repository:
-git clone https://github.com/Neliswa30/Navigation-ManyWays.git
+git clone https://github.com/Neliswa30/Navigation-ManyWays.git 
 Navigate to the project directory:
-cd Navigation-ManyWays
+cd Navigation-ManyWays 
 Install dependencies:
 npm install
 
