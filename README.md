@@ -1,9 +1,9 @@
-#ManyWays - Team Collabo Mobile App 
+# ManyWays - Team Collabo Mobile App 
 
 Welcome to the Manyways Navigation App project! This repository contains the code and documentation for a full-fledged e-commerce platform developed as part of our college programming course.
 
 ## Project Overview
-This repository contains the source code for a mobile navigation application. The app is designed to provide seamless navigation with an intuitive user interface and efficient route planning.
+This repository contains the source code for a mobile navigation application. The app is designed to provide seamless navigation with an intuitive user interface and efficient route planning. *Also note that this is a project for a student from IIE's Varsity College*
 
 Features
 Tab Navigation: Easy navigation through different sections of the app using tabs.
@@ -13,8 +13,7 @@ Offline Maps: Access maps and navigate even without an internet connection.
 User Profiles: Create and manage user profiles with saved routes and preferences.
 
 Technologies Used
-Frontend: React Native, JavaScript
-Backend: Node.js, Express.js
+Frontend: Android Java
 Database: Firebase
 Maps Integration: Google Maps API
 
